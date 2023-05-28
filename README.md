@@ -6,6 +6,8 @@ original connectqueue script with ability to push player position
   1 - Brain
 
   2 - Ox_lib https://github.com/overextended/ox_lib
+  
+  3 - qb-miniadmin
 
 * No support 
 
