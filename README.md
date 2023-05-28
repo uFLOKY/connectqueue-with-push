@@ -10,5 +10,6 @@ original connectqueue script with ability to push player position
 * No support 
 
 
-![Screenshot 2023-05-28 121043](https://github.com/uFLOKY/connectqueue-with-push/assets/80961359/0571b600-acc3-4f72-82d1-4a6289f935e0)
-![Screenshot 2023-05-28 121054](https://github.com/uFLOKY/connectqueue-with-push/assets/80961359/d8928115-9551-42e5-b913-5093536f5ba2)
+
+![Screenshot 2023-05-28 121043](https://github.com/uFLOKY/connectqueue-with-push/assets/80961359/3bd9d4b5-346e-4d0d-b08f-27810d46af7e)
+![Screenshot 2023-05-28 121054](https://github.com/uFLOKY/connectqueue-with-push/assets/80961359/5701ae8f-0036-4bb9-af30-014a6418f1f3)
